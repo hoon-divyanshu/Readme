@@ -3,27 +3,35 @@
 
 <p align="left">
   <a href="mailto:divyanshuhoonccs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+918273724748"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hoon-divyanshu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/918273724748"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
 ## ⚡ Quick Pitch
-I specialize in transforming complex business requirements into scalable ERP solutions. From **Odoo v9 to v19 Enterprise**, I’ve led migrations and high-stakes integrations for international clients in Dubai and Switzerland. I don't just write code; I build systems that drive revenue.
+I specialize in transforming complex business requirements into scalable ERP solutions. From **Odoo v9 to v19 Enterprise**, I’ve led migrations and high-stakes integrations for international clients in Dubai and Switzerland.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠️ Tech Stack & Ecosystem
 
 ### 🏗️ ERP & Backend
-> **Odoo (v9–v19)** • **Python** • **Java** • **Spring Boot** • **SAP Integration** • **Flectra**
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,postgres,mysql,redis,kafka,docker)](https://skillicons.dev)
+> **Specialized in:** Odoo Enterprise (v9-v19), SAP API Integration, Microservices.
 
-### 🎨 Frontend & Design
-> **React.js** • **TypeScript** • **Micro Frontends (Single SPA)** • **JavaScript (ES6+)** • **XML/OWL**
+### 🎨 Frontend & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css,linux,nginx,git,github)](https://skillicons.dev)
+> **Specialized in:** Micro Frontends, OWL Framework, Nginx Load Balancing.
 
-### 📦 Infrastructure & Data
-> **PostgreSQL** • **Docker** • **CI/CD Pipelines** • **Redis** • **Kafka** • **Nginx**
+---
+
+## 🏆 Professional Achievements (Static)
+<p align="left">
+  <img src="https://img.shields.io/badge/Odoo_Implementations-25%2B-7A7A7A?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Global_Projects-Dubai_|_Swiss-blue?style=for-the-badge&logo=world&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code_Commits-500%2B-orange?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
@@ -37,15 +45,15 @@ I specialize in transforming complex business requirements into scalable ERP sol
 
 ## 📊 Performance Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoon-divyanshu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs,stars&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoon-divyanshu&layout=compact&theme=radical&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoon-divyanshu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs,stars&rank_icon=github&v=2" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoon-divyanshu&layout=compact&theme=radical&hide=html,css&v=2" />
 </p>
 
 ---
 
 ## 🔭 Current Sprint
 - 🔭 **Working on:** High-scale Odoo 19 Enterprise deployments.
-- 🌱 **Learning:** Advanced Micro-frontend orchestration and AI-driven ERP automation.
+- 🌱 **Learning:** AI-driven ERP automation & Advanced Micro-frontend orchestration.
 - 💬 **Ask me about:** Odoo migrations, API integrations, and scaling React apps.
 
 ---

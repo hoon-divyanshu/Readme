@@ -1,99 +1,118 @@
-<!--
-  Thanks for visiting! 👋
-  This README template is optimized for GitHub profiles.
--->
+# Hi there 👋 I'm Divyanshu Hoon
+### Technical Consultant | Odoo ERP Developer | Full Stack Developer
 
-# Hi there 👋 I'm **YOUR NAME**
-### A passionate **YOUR ROLE** from **YOUR LOCATION**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
+[📧 Email](mailto:divyanshuhoonccs@gmail.com) • [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • 📞 +91-82737-24748
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **PROJECT / RESEARCH / LEARNING**
-- 🌱 I’m currently learning **TECHNOLOGIES YOU’RE LEARNING**
-- 👯 I’m looking to collaborate on **PROJECT IDEAS / OPEN SOURCE**
-- 💬 Ask me about **SKILLS / SUBJECTS YOU KNOW**
-- 📫 How to reach me: **EMAIL / LINKEDIN**
-- ⚡ Fun fact: **SOMETHING INTERESTING ABOUT YOU**
+## 📝 Professional Summary
+Technical Consultant and Odoo ERP Developer with extensive experience in Odoo v9–v19, enterprise ERP migrations, and large-scale third-party API integrations. Proven expertise in end-to-end ERP implementations covering Sales, Purchase, Inventory, Manufacturing, and Accounting. Delivered international projects across Dubai and Switzerland with strong client-facing and functional consulting capabilities.
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Languages
+### 💻 ERP & Backend
+![Odoo](https://img.shields.io/badge/Odoo-7A7A7A?style=flat&logo=odoo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=flat&logo=xml&logoColor=white)
 
-### 🧰 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🛠 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A6A6A6?style=flat)
+
+### 🏗 Architecture & Functional
+- Microservices & Micro Frontend  
+- REST APIs  
+- Requirement & GAP Analysis  
+- Client Consulting
 
 ---
 
-## 📦 Projects & Highlights
+## 💼 Work Experience
 
-### ⭐ Featured Projects
+### **Senior Software Developer** | RK Software Services LLC  
+*October 2024 - Present*  
+- Migrated legacy JSP and Angular applications to React using Micro Frontend architecture.  
+- Reduced bundle size by 70–80% and improved application performance.  
+- Designed API Gateway and optimized microservices using Java.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Project1](https://github.com/YOUR_USERNAME/PROJECT1)** | Brief description of what it does | `Tech1`, `Tech2` |
-| **[Project2](https://github.com/YOUR_USERNAME/PROJECT2)** | Brief description of what it does | `TechA`, `TechB` |
-| **[Project3](https://github.com/YOUR_USERNAME/PROJECT3)** | Brief description of what it does | `TechX`, `TechY` |
+### **Technical Consultant & Odoo Developer** | RK Software Services LLC  
+*June 2024 – Present*  
+- Delivered multiple end-to-end Odoo ERP implementations (v9–v19), including Odoo Enterprise.  
+- Led ERP migrations from legacy Odoo versions and Flectra to newer Odoo releases.  
+- Customized Sales, Purchase, Inventory, Manufacturing, Accounting, HR, CRM modules.  
+- Implemented Docker-based deployments and SAP integrations via REST APIs.  
+- Managed parallel projects and worked directly with international clients.
 
-> 💡 Tip: Add screenshots or GIFs of the projects below using `![alt text](URL)`.
+### **Programmer Analyst Trainee** | Cognizant Technology Solutions  
+*Dec 2023 – May 2024*  
+- Developed REST APIs using Java and Spring Boot.  
+- Implemented XML-based enterprise data exchange and performance improvements.
+
+### **Full Stack Developer (Odoo)** | DiracERP Solutions Pvt. Ltd.  
+*Feb 2023 – Dec 2023*  
+- Developed custom Odoo modules and frontend features using HTML, CSS, and JavaScript.  
+- Followed Odoo best practices and conducted code reviews.
+
+---
+
+## 🚀 Projects
+
+### **Epic Food – Dubai**  
+Odoo Enterprise Migration & Food Aggregator Integrations  
+- Complete migration from Odoo 10 to Odoo 18 Enterprise.  
+- Implemented Sales, Purchase, Inventory, Manufacturing, and Accounting end-to-end.  
+- Integrated Kareem, Deliveroo, Deliverate, Noon, Talabat, Instashop, Swiggy, Zomato via APIs.  
+- Automated order sync, pricing, inventory updates, and accounting reconciliation.
+
+### **2-Bit – Switzerland**  
+ERP Customization & Implementation  
+- Delivered ERP customizations and stable workflows aligned with European standards.
+
+### **Flow360**  
+- Integrated order and project management into a unified platform.  
+- Implemented Micro Frontend architecture using Single SPA.  
+- Used Java and SQL stored procedures for backend operations.
+
+### **MoboEVD**  
+- Built a SaaS platform for virtual voucher distribution.  
+- Implemented authentication, payment gateway, wallet, and RBAC features.  
+- Tech stack: React 18, TypeScript, GraphQL, Node.js, PostgreSQL, Kafka.
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:divyanshuhoonccs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📖 Blog / Articles
-If you write blogs, replace the links below with your posts.
-
-- 📝 [Article 1 Title](#)
-- 📝 [Article 2 Title](#)
-- 📝 [Article 3 Title](#)
-
----
-
-## ⭐ GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🤝 Support
-
-If you like what I do, feel free to ⭐ star my projects!
-
----
-
-<p align="center">Made with ❤️ by **YOUR NAME**</p>
+<p align="center">Made with ❤️ by **Divyanshu Hoon**</p>
